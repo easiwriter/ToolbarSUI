@@ -20,9 +20,4 @@ Install the package using the Swift Package Manager .
 3. For Rules, select Branch (with branch set to master).
 4. Click Finish.
 
-# Use
-
-For full details on how to use  this package see this [Medium Article](https://medium.com/@keithlander/a-swiftui-toolbar-777523c03b7d)
-
-
 
